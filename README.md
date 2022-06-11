@@ -12,14 +12,14 @@ Voici la liste des différents fichiers proposés dans lettrex :
   </tr>
   <tr>
       <td><b>FINDCITY.PAS</b></td>
-      <td>Cette commande permet de detecter les villes mentionnées dans un texte.</td>
+      <td>Cette commande permet de détecter les villes mentionnées dans un texte.</td>
   </tr>
   <tr>
       <td><b>FINDCTRY.PAS</b></td>
-    <td>Cette commande permet de detecter les pays mentionnées dans un texte.</td>
+    <td>Cette commande permet de détecter les pays mentionnées dans un texte.</td>
   <tr>
       <td><b>FINDNAME.PAS</b></td>
-      <td>Cette commande permet de detecter les nom propres mentionnées dans un texte.</td>
+      <td>Cette commande permet de détecter les nom propres mentionnées dans un texte.</td>
   </tr>
   <tr>
 	<td><b>HYPHEN.PAS</>
