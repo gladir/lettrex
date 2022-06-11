@@ -25,4 +25,8 @@ Voici la liste des différents fichiers proposés dans lettrex :
 	<td><b>HYPHEN.PAS</>
         <td>Cette commande permet de rechercher les mots avec des traits-union. Cette commande est inspiré de la commande UNIX.</td>
   </tr>
+  <tr>
+	<td><b>VERBS.PAS</b></td>
+	<td>Ce paramètre permet d'afficher le verbe la conjuguaison d'un verbe.</td>
+  </tr>
  </table>
