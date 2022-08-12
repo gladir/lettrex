@@ -22,8 +22,12 @@ Voici la liste des différents fichiers proposés dans lettrex :
       <td>Cette commande permet de détecter les nom propres mentionnées dans un texte.</td>
   </tr>
   <tr>
-	<td><b>HYPHEN.PAS</>
+	<td><b>HYPHEN.PAS</b></td>
         <td>Cette commande permet de rechercher les mots avec des traits-union. Cette commande est inspiré de la commande UNIX.</td>
+  </tr>
+  <tr>
+  	<td><b>SUFFIX.PAS</b></td>
+	<td>Cette commande permet de connaitre le suffixe (avec son origine grecque, latine ou francaise) du mot spécifié.</td>
   </tr>
   <tr>
 	<td><b>VERBS.PAS</b></td>
