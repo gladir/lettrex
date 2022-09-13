@@ -11,6 +11,10 @@ Voici la liste des différents fichiers proposés dans lettrex :
     <th>Description</th>
   </tr>
   <tr>
+      <td><b>ABBREV.PAS</b></td>
+      <td>Cette commande permet d'indiquer le nom complet d'une abréviation.</td>
+  </tr>  
+  <tr>
       <td><b>DEFNAME.PAS</b></td>
       <td>Cette commande permet d'indiquer la signification d'un nom propre.</td>
   </tr>
