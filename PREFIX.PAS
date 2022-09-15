@@ -32,7 +32,7 @@ Type
   Origin:(Grecque,Latine,Francais);
  End;
 Const
- PrefixList:Array[0..103]of PrefixRec=(
+ PrefixList:Array[0..142]of PrefixRec=(
   (PrefixName:'acanth';Sens:'‚pine';Origin:Grecque),
   (PrefixName:'acro';Sens:'‚lev‚';Origin:Grecque),
   (PrefixName:'actino';Sens:'rayon';Origin:Grecque),
@@ -131,12 +131,52 @@ Const
   (PrefixName:'embryo';Sens:'foetus';Origin:Grecque),
   (PrefixName:'en';Sens:'dans';Origin:Grecque),
   (PrefixName:'enc‚phal';Sens:'cerveau';Origin:Grecque),
+  (PrefixName:'endo';Sens:'… l''int‚rieur';Origin:Grecque),
   (PrefixName:'end';Sens:'… l''int‚rieur';Origin:Grecque),
   (PrefixName:'ent‚ro';Sens:'entrailles';Origin:Grecque),
   (PrefixName:'ent‚r';Sens:'entrailles';Origin:Grecque),
   (PrefixName:'entomo';Sens:'insecte';Origin:Grecque),
   (PrefixName:'‚o';Sens:'aurore';Origin:Grecque),
-  (PrefixName:'‚pi';Sens:'sur';Origin:Grecque)
+  (PrefixName:'‚pi';Sens:'sur';Origin:Grecque),
+  (PrefixName:'‚pist‚mo';Sens:'science';Origin:Grecque),
+  (PrefixName:'‚pist‚m';Sens:'science';Origin:Grecque),
+  (PrefixName:'erg';Sens:'action; travail';Origin:Grecque),
+  (PrefixName:'ethno';Sens:'peuple';Origin:Grecque),
+  (PrefixName:'ethn';Sens:'peuple';Origin:Grecque),
+  (PrefixName:'‚tho';Sens:'caractŠre';Origin:Grecque),
+  (PrefixName:'eu';Sens:'bien';Origin:Grecque),
+  (PrefixName:'exo';Sens:'au-dehors';Origin:Grecque),
+  (PrefixName:'galact';Sens:'lait';Origin:Grecque),
+  (PrefixName:'gam';Sens:'mariage';Origin:Grecque),
+  (PrefixName:'gastro';Sens:'ventre';Origin:Grecque),
+  (PrefixName:'g‚o';Sens:'terre';Origin:Grecque),
+  (PrefixName:'g‚ront';Sens:'vieillard';Origin:Grecque),
+  (PrefixName:'gloss';Sens:'langue';Origin:Grecque),
+  (PrefixName:'gluc';Sens:'doux, sucr‚';Origin:Grecque),
+  (PrefixName:'glyc‚ro';Sens:'‚crire';Origin:Grecque),
+  (PrefixName:'glyc';Sens:'‚crire';Origin:Grecque),
+  (PrefixName:'gyn‚co';Sens:'femme';Origin:Grecque),
+  (PrefixName:'gyn';Sens:'femme';Origin:Grecque),
+  (PrefixName:'gyro';Sens:'cercle';Origin:Grecque),
+  (PrefixName:'hapl';Sens:'simple';Origin:Grecque),
+  (PrefixName:'hecto';Sens:'cent';Origin:Grecque),
+  (PrefixName:'hect';Sens:'cent';Origin:Grecque),
+  (PrefixName:'h‚lio';Sens:'soleil';Origin:Grecque),
+  (PrefixName:'h‚li';Sens:'soleil';Origin:Grecque),
+  (PrefixName:'h‚mato';Sens:'sang';Origin:Grecque),
+  (PrefixName:'h‚mat';Sens:'sang';Origin:Grecque),
+  (PrefixName:'h‚mo';Sens:'demi, moiti‚';Origin:Grecque),
+  (PrefixName:'h‚mi';Sens:'demi, moiti‚';Origin:Grecque),
+  (PrefixName:'h‚pato';Sens:'foie';Origin:Grecque),
+  (PrefixName:'h‚pat';Sens:'foie';Origin:Grecque),
+  (PrefixName:'hepta';Sens:'sept';Origin:Grecque),
+  (PrefixName:'hept';Sens:'sept';Origin:Grecque),
+  (PrefixName:'h‚t‚ro';Sens:'autre';Origin:Grecque),
+  (PrefixName:'hexa';Sens:'six';Origin:Grecque),
+  (PrefixName:'hex';Sens:'six';Origin:Grecque),
+  (PrefixName:'hi‚ro';Sens:'sacr‚';Origin:Grecque),
+  (PrefixName:'hi‚r';Sens:'sacr‚';Origin:Grecque)
+
  );
 Var
  I:Integer;
