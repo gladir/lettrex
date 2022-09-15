@@ -110,7 +110,7 @@ BEGIN
  If(ParamStr(1)='/?')or(ParamStr(1)='--help')or(ParamStr(1)='-h')or
    (ParamStr(1)='/h')or(ParamStr(1)='/H')Then Begin
   WriteLn('QUOTES : Cette commande permet de rechercher des citations ',
-                      'c‚lbre.');
+                      'c‚lŠbre.');
   WriteLn;
   WriteLn('Syntaxe : QUOTES expression');
   WriteLn('          QUOTES /RANDOM');
