@@ -36,7 +36,11 @@ Voici la liste des différents fichiers proposés dans lettrex :
   <tr>
   	<td><b>PREFIX.PAS</b></td>
 	<td>Cette commande permet de connaitre le préfixe (avec son origine grecque, latine ou francaise) du mot spécifié.</td>
-  </tr>  
+  </tr> 
+  <tr>
+	<td><b>QUI.PAS</b></td>
+	<td>Cette commande permet de remplacer un mot QUI par un participe présent.</td>
+  </tr>
   <tr>
   	<td><b>QUOTES.PAS</b></td>
 	<td>Cette commande permet de rechercher des citations célèbres.</td>
