@@ -51,7 +51,7 @@ Voici la liste des différents fichiers proposés dans lettrex :
   </tr>
   <tr>
 	<td><b>VERBS.PAS</b></td>
-	<td>Cette commande permet d'afficher les conjuguaisons d'un verbe.</td>
+	<td>Cette commande permet d'afficher les conjugaisons d'un verbe.</td>
   </tr>
   <tr>
   	<td><b>VOWELS.PAS</b></td>
