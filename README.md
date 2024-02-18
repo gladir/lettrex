@@ -25,6 +25,11 @@ Voici la liste des différents fichiers proposés dans lettrex :
   <tr>
       <td><b>FINDCTRY.PAS</b></td>
     <td>Cette commande permet de détecter les pays mentionnées dans un texte.</td>
+  </tr>
+		<tr>
+			<td><b>FMT.PAS</b></td>
+			<td>Cette commande permet de reformater le texte de paragraphe.</td>
+		</tr>	
   <tr>
       <td><b>FINDNAME.PAS</b></td>
       <td>Cette commande permet de détecter les nom propres mentionnées dans un texte.</td>
