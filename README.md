@@ -1,5 +1,5 @@
 # lettrex
-Liste de commandes pour la littérature écrit en Pascal
+Liste de commandes pour la littérature écrit en Pascal  (Turbo Pascal ou Free Pascal).
 
 <h2>Liste des fichiers</h3>
 
